@@ -1,0 +1,27 @@
+{
+    "name": "brain",
+    "description": "",
+    "dependencies": {
+        "brain-nrf52840": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.13.67",
+        "tag": "v0.13.67",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/9cb6b3683820e79633cf99059d962e1f9e73662d",
+        "target": "0.13.67",
+        "pxt": "6.6.16",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
